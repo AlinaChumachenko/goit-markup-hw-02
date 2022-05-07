@@ -213,3 +213,7 @@ footer {
     letter-spacing: 0.03em;
 }
 
+.location-list:hover,
+.location-list:focus {
+    color: var(--accent-color);
+}

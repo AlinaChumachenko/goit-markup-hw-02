@@ -109,6 +109,7 @@ ul {
 .hero-btn {
     color: var(--hero-text-color);
     background-color: var(--accent-color);
+    cursor: pointer;
     font-family: inherit;
     font-weight: 700;
     font-size: 16px;
@@ -164,6 +165,7 @@ ul {
 .block-portfolio-btn {
     color: var(--primary-text-color);
     background-color: #F5F4FA;
+    cursor: pointer;
     font-family: inherit;
     font-weight: 500;
     font-size: 16px;
